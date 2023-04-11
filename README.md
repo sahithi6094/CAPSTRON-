@@ -1,1 +1,1 @@
-# CAPSTRON-calculater
+# CAPSTRON-CALCULATOR
